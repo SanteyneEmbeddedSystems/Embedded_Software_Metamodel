@@ -2,8 +2,8 @@
 
 !includeurl https://gist.githubusercontent.com/Arnaud-Bonneuil/c317a7a30bed7d64e2b5b1f558ac00cf/raw/sober.puml
 
-!includeurl https://raw.githubusercontent.com/HomeMadeBots/Embedded_Software_Meta_Model/main/Common_Elements/Metaclass_Software_Element.puml
-!includeurl https://raw.githubusercontent.com/HomeMadeBots/Embedded_Software_Meta_Model/main/Common_Elements/Constraint_Identifier_Pattern.puml
+!includeurl https://raw.githubusercontent.com/SanteyneEmbeddedSystems/Embedded_Software_Metamodel/main/Common_Elements/Metaclass_Software_Element.puml
+!includeurl https://raw.githubusercontent.com/SanteyneEmbeddedSystems/Embedded_Software_Metamodel/main/Common_Elements/Constraint_Identifier_Pattern.puml
 
 Software_Element..Identifier_Pattern
 
