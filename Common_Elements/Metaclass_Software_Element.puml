@@ -1,0 +1,14 @@
+@startuml
+
+abstract class Software_Element
+{
+  Abstract meta-class gathering the common
+  attributes shared by all the meta-classes
+  of this meta-model.
+  --
+  + Name:Characters_String
+  + Description[0,1]:Characters_String
+  + Identifier:GUID
+}
+
+@enduml
