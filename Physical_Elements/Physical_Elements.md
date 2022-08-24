@@ -16,4 +16,4 @@
 
 ## Type
 
-![Type](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.github.com/SanteyneEmbeddedSystems/Embedded_Software_Metamodel/master/Physical_Elements/Type.puml)
+![Type](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.github.com/SanteyneEmbeddedSystems/Embedded_Software_Metamodel/master/Physical_Elements/Diagram_Type.puml)
