@@ -1,0 +1,10 @@
+@startuml
+
+abstract class Classifier
+{
+  Abstract metaclass allowing to model elements
+  used to describe a set of instances that have
+  common behavioral or structural features.
+}
+
+@enduml
