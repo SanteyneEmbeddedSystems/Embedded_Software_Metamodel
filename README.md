@@ -11,4 +11,4 @@ The meta-model is defined through the following profiles :
 * [Structuring elements](Structuring_Elements/Structuring_Elements.md)
 * Functional requirement elements
 * Functional architecture elements
-* Physical elements (physical software architecture and detailed design)
+* [Physical elements (physical software architecture and detailed design)](Physical_Elements/Physical_Elements.md)
