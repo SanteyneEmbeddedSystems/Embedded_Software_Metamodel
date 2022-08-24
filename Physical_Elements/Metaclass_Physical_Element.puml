@@ -1,0 +1,10 @@
+@startuml
+
+abstract class Physical_Element
+{
+  Abstract meta-class generalizing elements
+  used to model the physical design of the
+  software.
+}
+
+@enduml
