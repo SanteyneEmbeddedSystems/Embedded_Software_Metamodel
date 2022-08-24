@@ -1,0 +1,13 @@
+@startuml
+
+!includeurl https://gist.githubusercontent.com/Arnaud-Bonneuil/c317a7a30bed7d64e2b5b1f558ac00cf/raw/sober.puml
+
+!includeurl https://raw.githubusercontent.com/SanteyneEmbeddedSystems/Embedded_Software_Metamodel/main/Common_Elements/Metaclass_Software_Element.puml
+!includeurl https://raw.githubusercontent.com/SanteyneEmbeddedSystems/Embedded_Software_Metamodel/main/Common_Elements/Metaclass_Must_Describe_Software_Element.puml
+!includeurl https://raw.githubusercontent.com/SanteyneEmbeddedSystems/Embedded_Software_Metamodel/main/Common_Elements/Constraint_Description_Mandatory.puml
+
+Software_Element <|-- Must_Describe_Software_Element
+
+Must_Describe_Software_Element .right.  Description_Mandatory
+
+@enduml
