@@ -4,6 +4,7 @@
 
 * [Physical_Element](physical_element)
 * [Classifier](classifier)
+* [Type](type)
 
 ## Physical_Element
 
@@ -12,3 +13,7 @@
 ## Classifier
 
 ![Classifier](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.github.com/SanteyneEmbeddedSystems/Embedded_Software_Metamodel/master/Physical_Elements/Diagram_Classifier.puml)
+
+## Type
+
+![Type](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.github.com/SanteyneEmbeddedSystems/Embedded_Software_Metamodel/master/Physical_Elements/Type.puml)
