@@ -8,7 +8,7 @@ of an embedded software.
 
 The meta-model is defined through the following profiles :
 * [Common elements](Common_Elements/Common_Elements.md)
-* Structuring elements
+* [Structuring elements](Structuring_Elements/Structuring_Elements.md)
 * Functional requirement elements
 * Functional architecture elements
 * Physical elements (physical software architecture and detailed design)
