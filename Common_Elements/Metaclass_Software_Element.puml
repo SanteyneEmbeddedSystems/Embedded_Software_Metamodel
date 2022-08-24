@@ -2,9 +2,9 @@
 
 abstract class Software_Element
 {
-  Abstract meta-class gathering the common
+  Abstract metaclass gathering the common
   attributes shared by all the meta-classes
-  of this meta-model.
+  of this metamodel.
   --
   + Name:Characters_String
   + Description[0,1]:Characters_String
