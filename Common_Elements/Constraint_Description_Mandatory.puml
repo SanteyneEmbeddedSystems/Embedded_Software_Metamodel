@@ -1,8 +1,0 @@
-@startuml
-
-note as Description_Mandatory
-context **Must_Describe_Software_Element** inv:
-    self.Description->size() = 1
-end note
-
-@enduml
