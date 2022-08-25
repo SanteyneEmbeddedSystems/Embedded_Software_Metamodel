@@ -8,7 +8,3 @@
 ## Software_Element
 
 ![Software_Element](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.github.com/SanteyneEmbeddedSystems/Embedded_Software_Metamodel/master/Common_Elements/Diagram_Software_Element.puml)
-
-## Must_Describe_Software_Element
-
-![Must_Describe_Software_Element](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.github.com/SanteyneEmbeddedSystems/Embedded_Software_Metamodel/master/Common_Elements/Diagram_Must_Describe_Software_Element.puml)
