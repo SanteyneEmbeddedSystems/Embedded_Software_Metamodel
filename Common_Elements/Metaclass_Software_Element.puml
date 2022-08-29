@@ -3,7 +3,7 @@
 abstract class Software_Element
 {
   Abstract metaclass gathering the common
-  attributes shared by all the meta-classes
+  attributes shared by all the metaclasses
   of this metamodel.
   --
   + Name:Characters_String
