@@ -1,8 +1,0 @@
-@startuml
-
-note as Package_Not_Empty
-{A **Package** shall aggregate at least
-one **Software_Element**.}
-end note
-
-@enduml
